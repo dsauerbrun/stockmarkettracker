@@ -1,0 +1,15 @@
+{
+  "name": "sp500crashbottomsimulator",
+  "version": "1.0.0",
+  "description": "An algorithm to detect when a crash has hit the bottom",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
