@@ -20,7 +20,7 @@ const investingLatenesspct = .1;
 const lastCrashLimit = 5;
 
 let startDate = moment('1980-01-01');
-let endDate = moment('2018=01-01');
+let endDate = moment('2018-01-01');
 //startDate = null;
 endDate = null;
 
